@@ -13,7 +13,7 @@ A web-based tool to compare image generation across OpenAI's DALL-E 2, DALL-E 3,
 
 ## Live Demo
 
-Visit the [live demo](https://your-username.github.io/openai-image-compare-claudedesktop/) on GitHub Pages.
+Visit the [live demo](https://wonderwhy-er.github.io/openai-image-compare-claudedesktop/) on GitHub Pages.
 
 ## Quick Start
 

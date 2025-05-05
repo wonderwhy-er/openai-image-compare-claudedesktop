@@ -1,4 +1,4 @@
-# OpenAI Image Models Comparison Tool
+# OpenAI Image Models Comparison Tool - Made with [Desktop Commander](https://desktopcommander.app/) and Claude Desktop for Vibe Coding comparison
 
 A web-based tool to compare image generation across OpenAI's DALL-E 2, DALL-E 3, and GPT Image-1 (newest) models side-by-side.
 

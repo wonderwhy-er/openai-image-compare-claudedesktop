@@ -1,3 +1,9 @@
+# Made as part of Live Coding Olympics
+[![Watch the video](https://img.youtube.com/vi/xySgNhHz4PI/0.jpg)](https://youtu.be/xySgNhHz4PI)
+
+Full results with links:
+https://docs.google.com/spreadsheets/d/1kgnVU6NZVTwqtUkrNetXTpm0oY7NsYGJn61u6-JMIoI/edit?usp=sharing
+
 # OpenAI Image Models Comparison Tool - Made with [Desktop Commander](https://desktopcommander.app/) and Claude Desktop for Vibe Coding comparison
 
 A web-based tool to compare image generation across OpenAI's DALL-E 2, DALL-E 3, and GPT Image-1 (newest) models side-by-side.
